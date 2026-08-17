@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://marvi.site/</loc>
+    </url>
+
+    <url>
+        <loc>https://marvi.site/shop.html</loc>
+    </url>
+
+    <url>
+        <loc>https://marvi.site/about.html</loc>
+    </url>
+
+    <url>
+        <loc>https://marvi.site/contact.html</loc>
+    </url>
+                   <!-- Female Care -->
+    <url>
+        <loc>https://marvi.site/category.html?cat=female-care</loc>
+    </url>
+                    <!-- Hair Care -->
+    <url>
+        <loc>https://marvi.site/category.html?cat=hair-care</loc>
+    </url>
+
+    <url>
+        <loc>https://marvi.site/product.html?id=1</loc>
+    </url>
+
+    <url>
+        <loc>https://marvi.site/product.html?id=2</loc>
+    </url>
+
+</urlset>
