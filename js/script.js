@@ -632,7 +632,7 @@ if (floatingWhatsApp) {
 
 
             // ==========================
-            // OTHER PAGES
+            // OTHER PAGES 
             // ==========================
 
             const message =
