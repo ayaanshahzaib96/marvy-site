@@ -171,7 +171,7 @@ Please confirm my order.`;
                 // ==============================
 
                 window.open(
-                    `https://wa.me/923286848461?text=${encodeURIComponent(message)}`,
+                    `https://wa.me/923019632724?text=${encodeURIComponent(message)}`,
                     "_blank"
                 );
 
