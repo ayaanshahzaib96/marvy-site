@@ -26,7 +26,7 @@
   {
     "productId": 7,
     "name": "foziya",
-    "name": "foziya78@gmail.com",
+    "mail": "foziya78@gmail.com",
     "rating": 5,
     "comment": "i like it."
   },
@@ -35,5 +35,12 @@
     "name": "Kiran Zafar",
     "rating": 5,
     "comment": "Washable silicone condom hai aur skin color natural look deta hai, lekin medical experts iske reuse ki safety ko le kar mehzooz hain.."
+  },
+  {
+    "productId": 5,
+    "name": "Rana Usman",
+    "mail": "rana.usman@example.com",
+    "rating": 5,
+    "comment": "Yeh condom kaafi affordable aur reusable hai, lekin isko properly saaf karna bohat zaroori hai."
   }
 ]
