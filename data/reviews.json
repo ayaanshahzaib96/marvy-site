@@ -42,5 +42,12 @@
     "mail": "rana.usman@example.com",
     "rating": 5,
     "comment": "Yeh condom kaafi affordable aur reusable hai, lekin isko properly saaf karna bohat zaroori hai."
+  },
+  {
+    "productId": 6,
+    "name": "Bilal Ahmed",
+    "mail": "bilal.ahmed@example.com",
+    "rating": 5,
+    "comment": "Isme do layers hain jo safety aur timing dono ke liye design ki gayi hain, lekin Pakistan mein iska availability limited ho sakta hai."
   }
 ]
