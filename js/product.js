@@ -262,7 +262,7 @@ if (ogImage) {
                         </div>
 
                         <h4>${review.name}</h4>
-
+                        <div class="review-mail">${review.mail}</div>
                         <p>${review.comment}</p>
 
                     </div>
