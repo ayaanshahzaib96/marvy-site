@@ -51,12 +51,16 @@
      <url>
         <loc>https://marvi.site/product.html?id=7</loc>
     </url>
-         <url>
+    <url>
         <loc>https://marvi.site/product.html?id=8</loc>
     </url>
-             <url>
+    <url>
         <loc>https://marvi.site/product.html?id=9</loc>
     </url>
+    <url>
+        <loc>https://marvi.site/product.html?id=10</loc>
+    </url>
+    
  
 
 </urlset>
