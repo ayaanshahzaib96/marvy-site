@@ -197,7 +197,7 @@
     "id": 8,
     "name": "Male Sex Condom In Pakistan",
     "price": 4500,
-    "category": "Condoms",
+    "category": "condoms",
     "images": [
         "images/Male Sex Condom In Pakistan.webp"
     ],
@@ -235,7 +235,7 @@
     "id": 9,
     "name": "Sex Dildo Simpal Female In Pakistan",
     "price": 3500,
-    "category": "Condoms",
+    "category": "condoms",
     "images": [
         "images/Sex Dildo Simpal Female In Pakistan.webp"
     ],
@@ -267,7 +267,7 @@
     "id": 10,
     "name": "Sex Lock Love Condom In Pakistan",
     "price": 5000,
-    "category": "Condoms",
+    "category": "condoms",
     "images": [
         "images/Sex Lock Love Condom In Pakistan.jpg"
     ],
@@ -301,7 +301,7 @@
     "id": 11,
     "name": "Sex Simple Dildo In Pakistan",
     "price": 7500,
-    "category": "Condoms",
+    "category": "condoms",
     "images": [
         "images/Sex Simple Dildo In Pakistan.jpg"
     ],
