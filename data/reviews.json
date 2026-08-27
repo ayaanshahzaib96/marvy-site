@@ -54,5 +54,19 @@
     "mail": "bilal.ahmed@example.com",
     "rating": 5,
     "comment": "Isme do layers hain jo safety aur timing dono ke liye design ki gayi hain, lekin Pakistan mein iska availability limited ho sakta hai."
+  },
+   {
+    "productId": 8,
+    "name": "Ahsan Raza",
+    "mail": "ahsan.raza@example.com",
+    "rating": 5,
+    "comment": "Pakistan mein Sathi, Touch, Josh aur Durex jaise achy brands easily available hain jo reliable protection detay hain"
+  },
+   {
+    "productId": 9,
+    "name": "Hira Fatima",
+    "mail": "hira.fatima@example.com",
+    "rating": 5,
+    "comment": "Silicone material soft aur body-safe hai, simple design beginner-friendly lagti hai "
   }
 ]
