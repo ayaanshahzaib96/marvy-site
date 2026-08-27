@@ -2,24 +2,28 @@
   {
     "productId": 1,
     "name": "Ali Khan",
+    "mail": "alikhansara@example.com",
     "rating": 5,
     "comment": "Very good product."
   },
   {
     "productId": 1,
     "name": "Ahmed",
+    "mail": "ahedsara@example.com",
     "rating": 4,
     "comment": "Original product and fast delivery."
   },
   {
     "productId": 2,
     "name": "Sara",
+    "mail": "sara@example.com",
     "rating": 5,
     "comment": "Amazing quality."
   },
    {
     "productId": 3,
     "name": "Nadia",
+      "mail": "nadia@example.com",
     "rating": 5,
     "comment": "i like it."
   },
@@ -33,6 +37,7 @@
    {
     "productId": 4,
     "name": "Kiran Zafar",
+    "mail": "kiranzafar@example.com",
     "rating": 5,
     "comment": "Washable silicone condom hai aur skin color natural look deta hai, lekin medical experts iske reuse ki safety ko le kar mehzooz hain.."
   },
