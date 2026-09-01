@@ -63,7 +63,13 @@
     <url>
         <loc>https://marvi.site/product.html?id=11</loc>
     </url>
+
+    
                        <!-- Male Tablates -->
+    
+    <url>
+        <loc>https://marvi.site/category.html?cat=male-tablets</loc>
+    </url>
  
 
 </urlset>
