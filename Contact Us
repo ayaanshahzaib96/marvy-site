@@ -241,7 +241,7 @@
 </nav>
 
     <!-- ========================= -->
-    <!-- SHOP BANNER -->
+    <!-- Contact Us -->
     <!-- ========================= -->
 
     <section class="category-banner">
@@ -251,25 +251,17 @@
             <div class="breadcrumb">
 
                 <a href="index.html">Home</a> /
-                <span>Shop</span>
+                <span>Contact Us</span>
 
             </div>
 
-            <h1>Shop</h1>
+            <h1>Contact Us</h1>
 
             <p id="product-count"></p>
 
         </div>
 
     </section>
-
-
-
-    <!-- ========================= -->
-    <!-- SHOP PRODUCTS -->
-    <!-- ========================= -->
-
-
 <!-- ========================= -->
 <!-- CONTACT US -->
 <!-- ========================= -->
