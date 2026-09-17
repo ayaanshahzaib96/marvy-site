@@ -189,7 +189,7 @@ if (window.innerWidth > 768) {
 
                 // Yahan featured category change karni hai
 
-                 const featuredCategory = "breast-enlargement";
+                 const featuredCategory = "male-tablets";
 
 const featuredProducts = products
     .filter(product => product.category === featuredCategory)
